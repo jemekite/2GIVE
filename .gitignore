@@ -1,5 +1,6 @@
 .qmake*
 Makefile
+2GiveCoin-Qt
 2give-temp/
 2GiveCoin-Qt.app/
 build/
