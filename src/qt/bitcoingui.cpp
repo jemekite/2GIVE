@@ -131,7 +131,7 @@ BitcoinGUI::BitcoinGUI(QWidget *parent):
                 "QToolBar#toolbar2 { background-color: #00ccff; width: 72px; min-height: 80px; max-height: 80px; border: 0px; margin: -4px; padding: -4px; } " \
                 "QToolBar#toolbar2 > QToolButton { background-color: #00ccff; height: 100%; width: 72px; icon-size: 72px; } " \
                 "QToolBar#toolbar2 > QToolButton:disabled { background-color: #00ccff; height: 100%; } " \
-                "QToolBar#toolbar { min-height: 80px; max-height: 80px; padding1-top:0px; background: #1d1d1d; max-width:1200px; border: none; margin: -4px; padding: -4px; } " \
+                "QToolBar#toolbar { min-height: 80px; max-height: 80px; padding-top:0px; background: #1d1d1d; max-width:1200px; border: none; margin: -4px; padding: -4px; } " \
                 "QToolBar#toolbar > QToolButton { color: #00ccff; border: none; font-size:10px; height: 100%; font-family:Open Sans;padding-top:10px; width:72px; background-color: #1d1d1d } " \
                 "QToolBar#toolbar > QToolButton:hover:!checked { color: #ffffff; background-color: #00ccff; border: none; } " \
                 "QToolBar#toolbar > QToolButton:pressed { color: #ffffff; background-color: #00ccff; border: none; } " \
